@@ -43,6 +43,6 @@ Interested in C/C++, C#, Unity3D Engine, Unreal4 Engine.
 My main using tool is Unity3D.
 <br><br><br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMan95&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMan95&show_icons=true&theme=slateorange)](https://github.com/YMan95/github-readme-stats)
 
 
