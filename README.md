@@ -1,4 +1,13 @@
-### Hi there 👋
+👋 Hi Developer 👋
+<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+
+<br>
+I'm a Game Developer which makes Hyper-Casual.
+<br>
+Interested in C/C++, C#, Unity3D Engine, Unreal4 Engine.
+<br>
+My main using tool is Unity3D.
 
 <!--
 **Jpot777/Jpot777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
