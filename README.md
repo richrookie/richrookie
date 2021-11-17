@@ -4,7 +4,7 @@
 </t>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
 </t>
-<img src="https://img.shields.io/badge/-#239120?style=flat-square&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-#239120?style=flat-square&logo=C#&logoColor=white"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)
