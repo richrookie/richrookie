@@ -42,5 +42,6 @@ My main using tool is Unity3D.
 <br><br><br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMan95&show_icons=true&theme=slateorange)](https://github.com/YMan95/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
