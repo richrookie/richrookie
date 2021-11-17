@@ -1,7 +1,7 @@
 👋 Hi Developer 👋
 <br><br>
 😮 Language
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </t>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
