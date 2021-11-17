@@ -5,6 +5,10 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
 </t>
 <img src="https://img.shields.io/badge/-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<t>
+<img src="https://img.shields.io/badge/Ios-#000000?style=flat-square&logo=Ios&logoColor=white"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)
