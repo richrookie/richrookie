@@ -1,8 +1,8 @@
 👋 Hi Developer 👋
 <br><br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=appveyor&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </t>
-<img src="https://img.shields.io/badge/CPP-#00599C?style=social&logo=appveyor&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/cpp-00599C?style=flat-square&logo=cpp&logoColor=white"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)
