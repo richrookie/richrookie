@@ -4,7 +4,7 @@
   
 </div>
   
-👋 Hi Developer 👋
+👋  Hi Developer 👋
 <br><br>
 
 😮 Language
