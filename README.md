@@ -1,6 +1,4 @@
- <div align=center>
-  [![Hits](https://github.com/Jpot777/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  </div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJpot777&count_bg=%2326BA30&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Dev&edge_flat=false)](https://hits.seeyoufarm.com)
 
 👋 Hi Developer 👋
 <br><br>
