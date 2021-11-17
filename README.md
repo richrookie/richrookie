@@ -1,3 +1,7 @@
+ <div align=center>
+  [![Hits](https://github.com/Jpot777/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  </div>
+
 👋 Hi Developer 👋
 <br><br>
 
@@ -29,7 +33,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)
 </t>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psymchoi@gmail.com)](mailto:psymchoi@gmail.com)
-<br><br>
+<br><br><br>
 I'm a Game Developer which makes Hyper-Casual.
 <br><br>
 Interested in C/C++, C#, Unity3D Engine, Unreal4 Engine.
