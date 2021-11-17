@@ -41,6 +41,6 @@ Interested in C/C++, C#, Unity3D Engine, Unreal4 Engine.
 My main using tool is Unity3D.
 <br><br><br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPot777&theme=slateorange)](https://github.com/JPot777/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPot777&count_private=true&theme=slateorange)](https://github.com/JPot777/github-readme-stats)
 
 
