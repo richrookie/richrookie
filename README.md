@@ -4,7 +4,7 @@
   
 </div>
   
-👋  Hi Developer 👋
+👋  Hello World 👋
 <br><br>
 
 😮 Language
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>
 <br><br>
   
-🥸 Tool
+🤯 Tool
 <br>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <t>
