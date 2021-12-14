@@ -2,7 +2,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJpot777&count_bg=%2326BA30&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Dev&edge_flat=false)](https://hits.seeyoufarm.com)
   
-</div>
+
   
 👋  Hello World 👋
 <br><br>
@@ -44,4 +44,4 @@ My main using tool is Unity3D.
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPot777&count_private=true&theme=slateorange)](https://github.com/JPot777/github-readme-stats)
 
-
+</div>
