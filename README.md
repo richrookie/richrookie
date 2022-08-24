@@ -1,27 +1,28 @@
-<div align=center>
+<div align=right>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJpot777&count_bg=%2326BA30&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Dev&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+</div>
 
-  
-👋  Hello World 👋
+<div align=center>
+
+# Hello World
 <br><br>
 
-😮 Language
+💻 Language
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
 <br><br>
 
-🧐 Platform
+🎲 Platform
 <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <t>
 <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>
 <br><br>
   
-🤯 Tool
+👣 Tool
 <br>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <t>
