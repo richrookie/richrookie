@@ -1,9 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=welcome&fontSize=90&fontAlign=75&&fontColor=ffffff&fontAlignY=30&desc=Youngmin's%20Github%20Profile&descSize=20&descAlign=83&Desc&descAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=77EE99&height=240&section=header&text=welcome&fontSize=90&fontAlign=75&&fontColor=ffffff&fontAlignY=30&desc=Youngmin's%20Github%20Profile&descSize=20&descAlign=83&Desc&descAlignY=50&animation=twinkling)
 
-<br>
-  
 ☁ SNS list ☁
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psymchoi@gmail.com)](mailto:psymchoi@gmail.com)
@@ -26,8 +24,12 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>
 
 <br>
+<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPot777&hide=javascript,html&layout=compact&theme=merko)](https://github.com/JPot777/github-readme-stats)
+
 <br>
+<br>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPot777&count_private=true&theme=merko)](https://github.com/JPot777/github-readme-stats)
 </div>
