@@ -1,5 +1,9 @@
 <div align=center>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=welcome&fontSize=90&fontAlign=75&&fontColor=ffffff&fontAlignY=30&desc=Youngmin's%20Github%20Profile&descSize=20&descAlign=83&Desc&descAlignY=50&animation=twinkling)
+
+<br>
+  
 ☁ SNS list ☁
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psymchoi@gmail.com)](mailto:psymchoi@gmail.com)
@@ -8,7 +12,7 @@
 
 <br>
   
-💻 Studying 💻
+⚒ Tech Stack ⚒
 <br> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
