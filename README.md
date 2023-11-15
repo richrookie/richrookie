@@ -12,11 +12,14 @@
   
 ⚒ Tech Stack ⚒
 <br> 
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Google Ads-4285F4?style=flat-square&logo=Google Ads&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Facebook Ads-0866FF?style=flat-square&logo=Facebook&logoColor=white"/> 
 <br>
   
 🎮 Platform 🎮
