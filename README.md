@@ -4,7 +4,6 @@
 
 ## 😎 Channel.
 - [Blog](https://richrookie.github.io) 👾
-- [LinkedIn](https://www.linkedin.com/in/youngmin-choi-bs-2405b6208/)
 - [GMail](psymchoi@gmail.com)
 
 ## 😎 Studying.
