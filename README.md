@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:psymchoi@gmail.com) 
 [![Blogger](https://img.shields.io/badge/%20Blog-555263?style=flat&logoColor=white)](https://richrookie.github.io)
-[![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://richrookie.github.io)
+[![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://richrookie.github.io/resume/)
 
 
 ## 🔥 Studying
