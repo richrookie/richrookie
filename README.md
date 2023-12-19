@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=Git&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase%20AWS&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp
 </p>
 
 <br>
