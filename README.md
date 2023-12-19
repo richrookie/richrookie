@@ -20,6 +20,6 @@
 
 <br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=richrookie&count_private=true&theme=merko" height="150">
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=psymchoi" height="155">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=richrookie&count_private=true&theme=merko" height="170">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=psymchoi" height="150">
 
